@@ -1,0 +1,134 @@
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: black;
+}
+
+
+
+.kd{
+    display: flex;
+    gap: 800px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+.sa{
+    gap: 5px;
+}
+
+
+
+header{
+    border-bottom: 2px solid #DEDBDB;
+}
+
+
+
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 52px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: #F0400F;
+    font-weight: 700;
+    font-size: 24px;
+    width: 208px;
+    height: 29px;
+}
+
+
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.mainall{
+    width: 650px;
+    height: 786px;
+    margin-top: 186px;
+    border:  1px solid #DEDBDB;
+    border-radius: 50px;
+    background-color: #fff;
+}
+
+
+
+.dv{
+    width: 533px;
+    height: 70px;
+    background-color: #DEDBDB;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border-radius: 15px;
+    margin-left: 60px;
+}
+
+
+
+.dvv{
+    background-color: #fff;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.dvvv{
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.dvvv:hover{
+    background-color: #fff;
+}
+
+
+
+.inputt input{
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #DEDBDB;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+
+
+
+
+.inputt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
